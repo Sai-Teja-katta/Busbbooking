@@ -1,0 +1,9 @@
+.welcome-message {
+  font-weight: bold;
+  font-size:1.5em;
+  color: #333; /* Adjust color as needed */
+}
+.custom-label {
+  font-weight: bold; /* Make the text bold */
+  font-family:  sans-serif; /* Replace with your preferred font */
+}
