@@ -34,6 +34,7 @@ public class CreateAccountController {
 	@GetMapping("/create_account")
 	public String newAccount(Model model) {
 		model.addAttribute("userdetails", new UserDetails());
+		System.out.println();
 		return "create_account";
 	}
 
